@@ -1,7 +1,7 @@
 # qwingel.github.io
 # Попов Артём Сергеевич
 **C++ / Python Backend Developer**  
-Начинающий специалист с фокусом на gamedev и веб-разработке
+Начинающий специалист с фокусом на backend-, desktop-разработке.
 
 ---
 
